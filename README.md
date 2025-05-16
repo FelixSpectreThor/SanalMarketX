@@ -1,7 +1,7 @@
 # SanalMarketX
 Boktan bir Migros Sanal Market (Sürüm 2.3.5) canlandırması işte.
 
-<img src="https://i.ibb.co/ym944gHQ/Samsung-Galaxy-S-III-mini-1.png" /></a>
+<img src="https://i.ibb.co/ym944gHQ/Samsung-Galaxy-S-III-mini-1.png" height="300" /></a>
 
 **NOT:** Bu uygulama üzerinden Alışveriş yapabilirsiniz ama eski bir uygulama olduğu için güvenilirlik konusunda şüphe yaşıyorsanız lütfen denemeyin.
 Bu uygulamayı yüklemek cihazınızda yüklü olan son sürüm Migros Sanal Market'e zarar vermez.
