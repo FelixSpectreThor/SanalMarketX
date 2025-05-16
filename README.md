@@ -6,14 +6,22 @@ Bu uygulamayı yüklemek cihazınızda yüklü olan son sürüm Migros Sanal Mar
  
 **Neler Çalışıyor:**
 Alışverişe Başla 
+
 Ürün Bul
 Kampanyalar
+
 Siparişlerim
+
 Alışveriş Listem
+
 Uygulama Hakkında Sayfası
+
 
 **Neler Çalışmıyor:**
 Kangurum.js çözemediğim için **Kullanıcı Girişi** ve **Yeni Üyelik** ana sayfada çalışmıyor. (Şimdilik **Alışverişe Başla** Seçeneğinden giriş yapabilirsiniz)
+
 Öner Kazan (Promosyon Sonlandırıldığı için imkansız.)
+
 Arama Ayarları (Anasayfa Webkit tabanlı tasarlanmış. Elimden geleni yapmaya çalışacağım ama)
+
 Teslimat Bölgesini Değiştir (Eklemeye üşendim Doğrusu :P)
